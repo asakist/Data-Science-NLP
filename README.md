@@ -16,7 +16,4 @@ Results-further information:
 ----------------------------
 In the nlp-pdf.
 
-Code:
------
-file:///C:/Users/you/Documents/jupyter/nlp-git-topic.html
 
