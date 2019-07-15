@@ -2,7 +2,7 @@
 
 Data:
 -----
-We have 362.871 documents with financial news scraped from valid news-sites.The data is somehow cleaned and tokenized and for that we will repeat the process of NLP(natural language processing).
+We have 10.000 documents with financial news scraped from valid news-sites.The data is somehow cleaned and tokenized and for that we will repeat the process of NLP(natural language processing).
 
 Unsupervised process:
 ---------------------
