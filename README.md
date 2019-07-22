@@ -19,6 +19,6 @@ In the nlp-pdf.
 Nbviewer:
 ---------
 In case the jupyter notebook file is not displayed ,use the following link
-https://nbviewer.jupyter.org/github/asakist/Data-Science-NLP/blob/master/nlp-git-topic.ipynb
+
 
 
